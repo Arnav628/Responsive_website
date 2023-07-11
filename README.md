@@ -1,1 +1,1 @@
-# Responsive_website
+# Developed a simple and responsive restaurant website using HTML, CSS, and JavaScript, offering an intuitive interface for users to explore the menu, view restaurant information, and make reservations. Implemented responsive design principles to ensure optimal viewing experience across devices, enhancing accessibility and user engagement
